@@ -4,11 +4,9 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@huseyin.ozsoy.87)](https://medium.com/@huseyin.ozsoy.87) 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/hgunay?label=follow&style=social)](https://github.com/huseyinozsoy)
 
-I'm a Full Stack Developer from  **İstanbul, Turkey**
-/*
-I'm currently Student
+I'm a Student
 
-I :heart: **Clean Code** 
+I :heart: **Programming** 
 
 ### Working with...
 
