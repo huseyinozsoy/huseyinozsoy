@@ -1,7 +1,7 @@
 ## Hi there, I am Hüseyin 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgunay/)](https://www.linkedin.com/in/ozsoyhuseyin/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@huseyin.ozsoy.87)]https://medium.com/@huseyin.ozsoy.87) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@huseyin.ozsoy.87)](https://medium.com/@huseyin.ozsoy.87) 
 [![GitHub Follow Badge](https://img.shields.io/github/followers/hgunay?label=follow&style=social)](https://github.com/huseyinozsoy)
 
 I'm a Full Stack Developer from  **İstanbul, Turkey**
