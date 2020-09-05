@@ -14,8 +14,8 @@ I :heart: **Programming**
 
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=fff)
-![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff)
+![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=fff) 
+![Swagger](https://img.shields.io/badge/-Swagger-3776AB?style=flat&logo=swagger&logoColor=white&color=85EA2D)
 
 
 #### Back-End
