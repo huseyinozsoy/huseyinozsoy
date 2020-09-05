@@ -20,8 +20,8 @@ I :heart: **Programming**
 
 #### Back-End
 
-![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Net Core](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)
+![Flask](https://img.shields.io/badge/-Flask-3776AB?style=flat&logo=flask&logoColor=fff)
 
 #### Front-End
 
